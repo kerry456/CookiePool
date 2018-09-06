@@ -15,16 +15,16 @@ pip3 install -r requirements.txt
 
 ```python
 # Redis数据库地址
-REDIS_HOST = 'localhost'
+REDIS_HOST = '127.0.0.1'
 
 # Redis端口
 REDIS_PORT = 6379
 
 # Redis密码，如无填None
-REDIS_PASSWORD = 'foobared'
+REDIS_PASSWORD = None
 
 # 产生器使用的浏览器
-BROWSER_TYPE = 'Chrome'
+BROWSER_TYPE = 'Firefox'
 
 # 产生器类，如扩展其他站点，请在此配置
 GENERATOR_MAP = {
@@ -42,7 +42,7 @@ TEST_URL_MAP = {
 }
 
 # 产生器和验证器循环周期
-CYCLE = 120
+CYCLE = 160
 
 # API地址和端口
 API_HOST = '0.0.0.0'
@@ -55,6 +55,10 @@ API_PORT = 5000
 在config.py修改
 
 ```python
+# 浏览器有无界面开关
+BROWSER_GUI = False
+
+ 
 # 产生器开关，模拟登录添加Cookies
 GENERATOR_PROCESS = True
 # 验证器开关，循环检测数据库中Cookies是否可用，不可用删除
@@ -64,38 +68,11 @@ API_PROCESS = True
 ```
 
 
-## 账号购买
-
-账号可在淘宝购买
 
 
-## 导入账号
-
-```
-python3 importer.py
-```
-
-```
-请输入账号密码组, 输入exit退出读入
-18459748505----astvar3647
-14760253606----gmidy8470
-14760253607----uoyuic8427
-18459749258----rktfye8937
-账号 18459748505 密码 astvar3647
-录入成功
-账号 14760253606 密码 gmidy8470
-录入成功
-账号 14760253607 密码 uoyuic8427
-录入成功
-账号 18459749258 密码 rktfye8937
-录入成功
-exit
-```
 
 
-## 运行
 
-请先导入一部分账号之后再运行，运行命令：
 
 ```
 python3 run.py
