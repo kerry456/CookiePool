@@ -1,0 +1,88 @@
+1536031497114	geckodriver	INFO	geckodriver 0.19.1
+1536031497317	geckodriver	INFO	Listening on 127.0.0.1:46195
+1536031499361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RuCCFOtlBbN7"
+1536031549919	Marionette	INFO	Listening on port 42883
+1536031554022	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:75108): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+1536045924229	geckodriver	INFO	geckodriver 0.19.1
+1536045924302	geckodriver	INFO	Listening on 127.0.0.1:58155
+1536045924898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oEaenrlyDrOF"
+1536045939638	Marionette	INFO	Listening on port 39297
+1536045939854	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6425, Gecko_IOThread] WARNING: pipe error (85): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 6425, Gecko_IOThread] WARNING: pipe error (57): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536046335213	geckodriver	INFO	geckodriver 0.19.1
+1536046335218	geckodriver	INFO	Listening on 127.0.0.1:40125
+1536046335500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4aHTWeEtHNjt"
+1536046339002	Marionette	INFO	Listening on port 44951
+1536046339040	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7153): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+[Parent 7064, Gecko_IOThread] WARNING: pipe error (56): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536047015998	geckodriver	INFO	geckodriver 0.19.1
+1536047016003	geckodriver	INFO	Listening on 127.0.0.1:35771
+1536047016304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3wwhEAg9kaau"
+1536047019805	Marionette	INFO	Listening on port 36085
+1536047019862	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7623): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7686, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536047190589	geckodriver	INFO	geckodriver 0.19.1
+1536047190594	geckodriver	INFO	Listening on 127.0.0.1:58347
+1536047190874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ABhH2UiVwKaw"
+1536047194398	Marionette	INFO	Listening on port 41909
+1536047194436	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8097): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+1536047377504	geckodriver	INFO	geckodriver 0.19.1
+1536047377510	geckodriver	INFO	Listening on 127.0.0.1:50345
+1536047377824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jPwhUCRn69fI"
+1536047387069	Marionette	INFO	Listening on port 38537
+1536047387235	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8358): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+[Parent 8006, Gecko_IOThread] WARNING: pipe error (63): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8423, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536047749305	geckodriver	INFO	geckodriver 0.19.1
+1536047749310	geckodriver	INFO	Listening on 127.0.0.1:37937
+1536047749700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8qiwL1eQiJ9n"
+1536047753647	Marionette	INFO	Listening on port 37241
+1536047753659	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8734): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientHandle::Msg_PClientHandleOpConstructor Route error: message sent to unknown actor ID
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8795, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8734, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536048440088	geckodriver	INFO	geckodriver 0.19.1
+1536048440093	geckodriver	INFO	Listening on 127.0.0.1:60995
+1536048441411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iQIKmIUd4WzQ"
+1536048444660	Marionette	INFO	Listening on port 38455
+1536048444711	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9435): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+1536048727454	geckodriver	INFO	geckodriver 0.19.1
+1536048727459	geckodriver	INFO	Listening on 127.0.0.1:58265
+1536048728778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lNzoWyh1VmLk"
+1536048732289	Marionette	INFO	Listening on port 38191
+1536048732349	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9362, Gecko_IOThread] WARNING: pipe error (56): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+(/usr/lib/firefox/firefox:9815): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+[Parent 9744, Gecko_IOThread] WARNING: pipe error (56): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536048921757	geckodriver	INFO	geckodriver 0.19.1
+1536048921762	geckodriver	INFO	Listening on 127.0.0.1:37545
+1536048923036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zJUZZc3RBWbW"
+1536048926508	Marionette	INFO	Listening on port 36477
+1536048926598	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10361): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 权限不够
+[Parent 10278, Gecko_IOThread] WARNING: pipe error (56): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

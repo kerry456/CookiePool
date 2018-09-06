@@ -1,0 +1,69 @@
+1536051995046	geckodriver	INFO	geckodriver 0.19.1
+1536051995051	geckodriver	INFO	Listening on 127.0.0.1:43407
+1536051996371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EfFVDYGA2HvM"
+1536051999792	Marionette	INFO	Listening on port 42475
+1536051999835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536116132775	geckodriver	INFO	geckodriver 0.19.1
+1536116132779	geckodriver	INFO	Listening on 127.0.0.1:58723
+1536116133062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1W3lKozkLKp7"
+1536116137015	Marionette	INFO	Listening on port 36597
+1536116137094	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19477, Gecko_IOThread] WARNING: pipe error (56): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536125856352	geckodriver	INFO	geckodriver 0.19.1
+1536125856651	geckodriver	INFO	Listening on 127.0.0.1:42107
+1536125858173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6KBXHt12iiIu"
+1536125905549	Marionette	INFO	Listening on port 44003
+1536125905674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536126272751	geckodriver	INFO	geckodriver 0.19.1
+1536126272755	geckodriver	INFO	Listening on 127.0.0.1:42611
+1536126273083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2hGoKnymKqPK"
+1536126277237	Marionette	INFO	Listening on port 41209
+1536126277434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536126524413	geckodriver	INFO	geckodriver 0.19.1
+1536126524425	geckodriver	INFO	Listening on 127.0.0.1:54429
+1536126524748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.imWH3q92oWBc"
+1536126544649	Marionette	INFO	Listening on port 45543
+1536126544783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536136316604	geckodriver	INFO	geckodriver 0.19.1
+1536136316667	geckodriver	INFO	Listening on 127.0.0.1:50765
+1536136317294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HOKv86rRWhuT"
+1536136335349	Marionette	INFO	Listening on port 35225
+1536136335529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536136859367	geckodriver	INFO	geckodriver 0.19.1
+1536136859413	geckodriver	INFO	Listening on 127.0.0.1:49685
+1536136860805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NgFGobwuLOBN"
+[Parent 29523, Gecko_IOThread] WARNING: pipe error (130): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 29523, Gecko_IOThread] WARNING: pipe error (57): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536136867909	Marionette	INFO	Listening on port 40403
+1536136867961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536136887902	geckodriver	INFO	geckodriver 0.19.1
+1536136887907	geckodriver	INFO	Listening on 127.0.0.1:48843
+1536136889197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ugQyWCdwEhfy"
+1536136892863	Marionette	INFO	Listening on port 36751
+1536136892937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536202967022	geckodriver	INFO	geckodriver 0.19.1
+1536202967029	geckodriver	INFO	Listening on 127.0.0.1:54837
+1536202967334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cUlh3H00oxzv"
+1536202970561	Marionette	INFO	Listening on port 36657
+1536202970633	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536203056535	geckodriver	INFO	geckodriver 0.19.1
+1536203056545	geckodriver	INFO	Listening on 127.0.0.1:42185
+1536203056855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AIQPwxOFTpjM"
+1536203060254	Marionette	INFO	Listening on port 36325
+1536203060307	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 37897, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536203143571	geckodriver	INFO	geckodriver 0.19.1
+1536203143584	geckodriver	INFO	Listening on 127.0.0.1:53249
+1536203143915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sjU46HfP0hhc"
+1536203147142	Marionette	INFO	Listening on port 32845
+1536203147223	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 38150, Gecko_IOThread] WARNING: pipe error (56): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536203234737	geckodriver	INFO	geckodriver 0.19.1
+1536203234741	geckodriver	INFO	Listening on 127.0.0.1:57461
+1536203235039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.0ksSXpkz3XCs"
+*** You are running in headless mode.
+1536203238017	Marionette	INFO	Listening on port 32795
+1536203238089	Marionette	WARN	TLS certificate errors will be ignored for this session

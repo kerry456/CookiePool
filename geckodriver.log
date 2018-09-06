@@ -1,0 +1,87 @@
+1536202097787	geckodriver	INFO	geckodriver 0.19.1
+1536202097792	geckodriver	INFO	Listening on 127.0.0.1:43771
+1536202099083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PozRutHBOEz9"
+1536202111656	Marionette	INFO	Listening on port 46081
+1536202111675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536202199284	geckodriver	INFO	geckodriver 0.19.1
+1536202199288	geckodriver	INFO	Listening on 127.0.0.1:41315
+1536202200572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.073ZWgZcJatS"
+Error: no DISPLAY environment variable specified
+1536202200689	geckodriver	INFO	geckodriver 0.19.1
+1536202200697	geckodriver	INFO	Listening on 127.0.0.1:51083
+1536202202002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.S9f6te9FSSy3"
+Error: no DISPLAY environment variable specified
+1536202202120	geckodriver	INFO	geckodriver 0.19.1
+1536202202127	geckodriver	INFO	Listening on 127.0.0.1:55843
+1536202203387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bLzTAePRdx17"
+Error: no DISPLAY environment variable specified
+1536202203520	geckodriver	INFO	geckodriver 0.19.1
+1536202203527	geckodriver	INFO	Listening on 127.0.0.1:60799
+1536202204819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ijoHgqWccVfo"
+Error: no DISPLAY environment variable specified
+1536202204930	geckodriver	INFO	geckodriver 0.19.1
+1536202204935	geckodriver	INFO	Listening on 127.0.0.1:52731
+1536202206207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T6jY1U8OSqy0"
+Error: no DISPLAY environment variable specified
+1536202206321	geckodriver	INFO	geckodriver 0.19.1
+1536202206329	geckodriver	INFO	Listening on 127.0.0.1:54973
+1536202207603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h8hp0DIEF9Y3"
+Error: no DISPLAY environment variable specified
+1536202207718	geckodriver	INFO	geckodriver 0.19.1
+1536202207725	geckodriver	INFO	Listening on 127.0.0.1:59641
+1536202208997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fn5zztkBNtGQ"
+Error: no DISPLAY environment variable specified
+1536202209109	geckodriver	INFO	geckodriver 0.19.1
+1536202209114	geckodriver	INFO	Listening on 127.0.0.1:43007
+1536202210389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.APwroioyW6pk"
+Error: no DISPLAY environment variable specified
+1536202210500	geckodriver	INFO	geckodriver 0.19.1
+1536202210504	geckodriver	INFO	Listening on 127.0.0.1:37629
+1536202211783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.J34nXac2t5rC"
+Error: no DISPLAY environment variable specified
+1536202211894	geckodriver	INFO	geckodriver 0.19.1
+1536202211899	geckodriver	INFO	Listening on 127.0.0.1:42615
+1536202213187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RcX2Xl7ruKMl"
+Error: no DISPLAY environment variable specified
+1536202213301	geckodriver	INFO	geckodriver 0.19.1
+1536202213312	geckodriver	INFO	Listening on 127.0.0.1:35811
+1536202214581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.btvhZw8oyL7E"
+Error: no DISPLAY environment variable specified
+1536202214692	geckodriver	INFO	geckodriver 0.19.1
+1536202214697	geckodriver	INFO	Listening on 127.0.0.1:34765
+1536202216027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wlpV3E8QXemp"
+Error: no DISPLAY environment variable specified
+1536202216145	geckodriver	INFO	geckodriver 0.19.1
+1536202216152	geckodriver	INFO	Listening on 127.0.0.1:37355
+1536202217469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LPjD7QSN8R8L"
+Error: no DISPLAY environment variable specified
+1536202217583	geckodriver	INFO	geckodriver 0.19.1
+1536202217588	geckodriver	INFO	Listening on 127.0.0.1:59825
+1536202218877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6bjBjSeEtsHG"
+Error: no DISPLAY environment variable specified
+1536202218988	geckodriver	INFO	geckodriver 0.19.1
+1536202218993	geckodriver	INFO	Listening on 127.0.0.1:49609
+1536203263982	geckodriver	INFO	geckodriver 0.19.1
+1536203263989	geckodriver	INFO	Listening on 127.0.0.1:46089
+1536203265324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.nbTz7X929wgT"
+*** You are running in headless mode.
+1536203268314	Marionette	INFO	Listening on port 45359
+1536203268395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536203388602	geckodriver	INFO	geckodriver 0.19.1
+1536203388611	geckodriver	INFO	Listening on 127.0.0.1:60161
+1536203389899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.9CdctX5cvjIF"
+*** You are running in headless mode.
+1536203392740	Marionette	INFO	Listening on port 37753
+1536203392791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536203513027	geckodriver	INFO	geckodriver 0.19.1
+1536203513032	geckodriver	INFO	Listening on 127.0.0.1:51045
+1536203514308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.bzY2lA6NpLie"
+*** You are running in headless mode.
+1536203517154	Marionette	INFO	Listening on port 36959
+1536203517266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536203637550	geckodriver	INFO	geckodriver 0.19.1
+1536203637559	geckodriver	INFO	Listening on 127.0.0.1:35801
+1536203638877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.yK6qiouBkQbL"
+*** You are running in headless mode.
+1536203641982	Marionette	INFO	Listening on port 35115
+1536203642061	Marionette	WARN	TLS certificate errors will be ignored for this session
